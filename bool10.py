@@ -1,5 +1,5 @@
 def main(a):
-    """To Check if a number is a perfect square or not
+    """check that the number "a" is a perfect square.
     Args:
         a: int
     Returns:
