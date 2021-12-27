@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return a//2 == 1
+    return a%2 == 1
 
 print(main(33))
