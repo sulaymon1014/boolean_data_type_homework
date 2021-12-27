@@ -9,4 +9,4 @@ def main(a):
     # Write your code here
     return a//2 == 1
 
-print(main(34))
+print(main(33))
