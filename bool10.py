@@ -6,4 +6,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    return a**2 == a*a 
+
+print(main(4))
